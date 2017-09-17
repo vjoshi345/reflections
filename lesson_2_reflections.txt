@@ -14,6 +14,7 @@ organized? How would branches help?
 	- When you want to try out an experimental feature e.g., a feature which you haven’t yet decided will be in your final software. Or maybe when you want to create two versions of your software - initially you can start out with two branches and later combine them such that the user is directly allowed to switch between the versions.
 
 How do the diagrams help you visualize the branch structure?
+	- Using the diagrams you can clearly see at which commit the branching occured. So, you can see e.g., if there have been further commits on the master branch after branching to your own branch, etc. This might be helpful when you need to merge the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
